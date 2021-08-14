@@ -51,7 +51,9 @@
   <ItemGroup>
     <Compile Include="AssertMethods.cs" />
     <Compile Include="CollectionAssertMethods.cs" />
+    <Compile Include="ExpectingExceptions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringAssertMethods.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
