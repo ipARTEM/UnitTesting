@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UserDetails>
+  <User userid="Artem" telephone="+7 999 999 99 99" email="a.khimin@yandex.ru"/>
+  <User userid="Nastya" telephone="+7 888 999 99 99" email="a.khimin@yandex.ru"/>
+  <User userid="Nikita" telephone="+7 777 999 99 99" email="a.khimin@yandex.ru"/>
+  <User userid="Demid" telephone="+7 666 999 99 99" email="a.khimin@yandex.ru"/>
+  <User userid="Liza" telephone="+7 555 999 99 99" email="a.khimin@yandex.ru"/>
+</UserDetails>
